@@ -1,2 +1,3 @@
-function addNum(a,b)
-return a+b;
+function deductNum(a,b)
+return a-b;
+
